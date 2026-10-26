@@ -1,0 +1,9 @@
+{
+ "classification":"starting_points_to_test_per_job_not_measured_reference_values",
+ "canvas":{"width":1080,"height":1920},
+ "safe":{"left":86,"right":86,"top":190,"bottom":430,"ui_right_zone":190},
+ "colors":{"white":"#ffffff","amber":"#ffca45","ink":"#102029"},
+ "roles":{"headline":{"min_px":92,"max_px":144,"max_lines":2,"max_words":8},"keyword":{"min_px":110,"max_px":172,"max_lines":1},"subtitle":{"min_px":54,"max_px":64,"max_lines":2,"max_chars_per_second":17},"callout":{"min_px":44,"max_px":58,"max_lines":2}},
+ "reading":{"minimum_seconds":1.2,"words_per_second":3,"arrival_does_not_count":true},
+ "motion":{"hook":{"in":0.32,"out":0.16,"purpose":"primary promise"},"space":{"in":0.24,"out":0.16,"purpose":"tour orientation"},"stat":{"in":0.30,"out":0.16,"purpose":"verified factual number"},"amenity":{"in":0.28,"out":0.16,"purpose":"connection to verified POI"},"closing":{"in":0.32,"out":0.20,"purpose":"contact/view invitation"}}
+}
