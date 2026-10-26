@@ -1,0 +1,98 @@
+{
+  "brief.json": {
+    "reference_files": [],
+    "source_roots": [],
+    "claims": [],
+    "public_location": null,
+    "privacy_scope": [
+      "house_number",
+      "plate",
+      "phone",
+      "advertising",
+      "reflections",
+      "audio_caption"
+    ],
+    "approval_mode": "full_when_sources_supplied_for_editing",
+    "user_authorization": "Standing project preference 2026-10-24: automatically edit supplied sources; full export without intermediate preview, unless current brief says otherwise.",
+    "target": {
+      "width": 2160,
+      "height": 3840,
+      "fps": null,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    "style_profile": null,
+    "audio": {
+      "preserve_original_voice": true,
+      "noise_reduction": "adaptive_conservative",
+      "music_enabled": false,
+      "sfx_library": "E:/VIDEO/assets/sfx/",
+      "license_review_required": true,
+      "audition_status": "pending"
+    }
+  },
+  "source-manifest.json": {
+    "sources": []
+  },
+  "shot-list.json": {
+    "shots": []
+  },
+  "transcript.json": {
+    "engine": null,
+    "model": null,
+    "sentences": []
+  },
+  "edit-plan.json": {
+    "duration": 0,
+    "fps": null,
+    "fps_reason": null,
+    "visuals": [],
+    "speech": [],
+    "graphics": [],
+    "transitions": [],
+    "encode_lineage": []
+  },
+  "cue-sheet.json": {
+    "cues": []
+  },
+  "asset-ledger.json": {
+    "assets": []
+  },
+  "privacy-review.json": {
+    "status": "pending",
+    "reviewer": null,
+    "artifact_sha256": null,
+    "full_timeline_scanned": false,
+    "intervals": [],
+    "audio_disclosures": []
+  },
+  "qa-report.json": {
+    "technical": null,
+    "manual": {
+      "speech_and_sync": {
+        "status": "pending",
+        "evidence": null
+      },
+      "audio_listening": {
+        "status": "pending",
+        "evidence": null
+      },
+      "source_export_detail": {
+        "status": "pending",
+        "evidence": null
+      },
+      "phone_typography_motion": {
+        "status": "pending",
+        "evidence": null
+      },
+      "privacy_encode": {
+        "status": "pending",
+        "evidence": null
+      },
+      "factual_accuracy": {
+        "status": "pending",
+        "evidence": null
+      }
+    }
+  }
+}

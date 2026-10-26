@@ -1,0 +1,7 @@
+{
+ "publication_confirmed":false,"location_evidence":null,"precision":"approximate","exact_publication_authorized":false,
+ "projection":"EPSG:3857","north_up":true,"bounds":null,"zoom":1.8,
+ "asset":{"path":null,"source":null,"license_evidence":null,"attribution":null,"video_use_permitted":false},
+ "pin":{"lat":null,"lon":null,"label":"Vị trí gần đúng","confirmed":false,"evidence":null},
+ "landmarks":[],"routes":[]
+}

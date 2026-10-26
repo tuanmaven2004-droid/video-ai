@@ -1,0 +1,4 @@
+interface:
+  display_name: "Real Estate Video Editor"
+  short_description: "Dựng review nhà, giữ lời nói và che thông tin nhạy cảm"
+  default_prompt: "Use $real-estate-video-editor to prepare a real-estate review from raw clips and an accessible reference, preserve speech, verify privacy masks, build a source-mapped edit with licensed audio and location graphics, reduce noise conservatively, use local licensed SFX without background music, and automatically export a full vertical 4K video when I provide sources for editing, unless I request otherwise."

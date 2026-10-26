@@ -1,0 +1,1 @@
+{"width":1080,"height":1920,"pairs":[{"source":{"path":"original.MOV","time":1},"export":{"path":"delivery.mp4","time":2},"crop":[540,720,260,780],"note":"Replace with aligned source/timeline times; crop is w:h:x:y after rotation+scale."}]}
